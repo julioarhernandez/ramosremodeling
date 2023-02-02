@@ -786,5 +786,9 @@
 		padding-bottom: 50px;
 		background: #f3f4f5;
 	}
-	
-	
+	@media (max-width: 767.9px) {
+		.margin-bottom {
+			margin-bottom: 28px;
+		}
+	}
+		
